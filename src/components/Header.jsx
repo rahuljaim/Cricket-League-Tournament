@@ -26,7 +26,7 @@ const Header = () => {
   return (
     <div>
       <Router>
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
           <div className="container-fluid">
             <h2 style={{ color: "#6610f2" }}>Cricket Legue </h2>
             <button
